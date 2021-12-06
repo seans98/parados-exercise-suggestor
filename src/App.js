@@ -17,7 +17,7 @@ export default function App() {
 
   return (
     <div className="App">
-      <h1>Paraos Web Application</h1>
+      <h1>Parados Web Application</h1>
       <p>
         Welcome to the Parados webpage. Here we outline some exercises you can
         do to improve performance or whatever you want to put here
